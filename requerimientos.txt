@@ -1,0 +1,15 @@
+# TELECOM X - Análisis de Evasión de Clientes (Churn)
+# Requisitos del proyecto
+
+# Python >= 3.8
+
+# Librerías principales para análisis de datos
+pandas>=2.3.3
+numpy>=2.4.1
+
+# Librerías para visualización
+matplotlib>=3.10.8
+seaborn>=0.13.2
+
+# Para instalar todas las dependencias, ejecuta el siguiente comando:
+pip install -r requiremientos.txt
